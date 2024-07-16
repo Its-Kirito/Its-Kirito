@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on many fun projects
 - 📫 How to reach me via email at edaddo@gmail.com
-- 😄 Pronouns: He/Him/Attack Chopper
+- 😄 Pronouns: Military Tank/He/Him
 - ⚡ Fun fact: The first even integer isn't 0🌚
 
 <!---
