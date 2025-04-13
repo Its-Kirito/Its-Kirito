@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Its-Kirito
 - 👀 I’m interested in Coding, Noveling and Reading
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on many fun projects
-- 📫 How to reach me via email at edaddo@gmail.com
-- 😄 Pronouns: Military Tank/He/Him
 - ⚡ Fun fact: The first even integer isn't 0🌚
 
 <!---
