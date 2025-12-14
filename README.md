@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Its-Kirito
 - 👀 I’m interested in Coding, Noveling and Reading
+- 🌐 Currently studying Networking and aspects of Cybersecurity
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on many fun projects
 - ⚡ Fun fact: The first even integer isn't 0🌚
