@@ -1,6 +1,6 @@
 * 👋 Hi, I’m Edward
 * 🌐 Computer Science student
-* 🌱 Currently building proficiency in Python and Java
+* 🌱 Currently building proficiency in Python, Java, and C#
 * 🛠️ Exploring Linux systems, home server setup, and scalable project architecture
 * 👀 Interested in software development, system design, and writing
 * 💞️ Open to collaborating on interesting and challenging projects
